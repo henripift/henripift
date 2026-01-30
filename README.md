@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Henri**, a student of the school **Lycée La Colinière** based in **Nantes**.
+I'm **Henri**, a student at the school **Lycée La Colinière** based in **Nantes**.
 
 I like create websites whit my imagination. So I've started with learning **HTML** and **CSS** to create my first website. 
 And then I've started learning **Javascript** to improve my websites and to make them more attractive with a lot of features. 
