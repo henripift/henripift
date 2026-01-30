@@ -15,8 +15,8 @@ You can look at my **github** to see which projects I am working on.
 I love **github** it's a powerful tool to share my projects !
 
 **Fun facts abouts me :**
-  > I love video games
-  > I like football
+  - I love video games
+  - I like football
 
 
 
