@@ -1,36 +1,17 @@
 ## Hi there 👋
 
-I'm **Henri**, a student at the school **Lycée La Colinière** based in **Nantes**.
+I'm **Henri**, a student at Lycée La Colinière in Nantes (France).
 
-I like create websites whit my imagination. So I've started with learning **HTML** and **CSS** to create my first website. 
-And then I've started learning **Javascript** to improve my websites and to make them more attractive with a lot of features. 
+I **like creating** websites with my imagination. I started by learning **HTML** and **CSS** to create my first website. Then, I started learning **JavaScript** to improve my sites and make them more attractive with new features.
 
-Actually, the langages I've practiced the most are : HTMl, CSS and Python.
-And I'm currently learning : Javascript, PHP and MySQL.
+Currently, the languages I practice the most are: **HTML**, **CSS**, and **Python**. I am also learning: **JavaScript**, **PHP**, and **MySQL**.
 
-I'm currently my own **portfolio**, it's a good way to follow my **progression** !
-*You can find it in my repositories :).*
+I'm currently building my **own portfolio**. It's a good way to **track my progress**! *You can find it in my repositories :).*
 
-You can look at my **github** to see which projects I am working on. 
-I love **github** it's a powerful tool to share my projects !
+You can look at my **GitHub** to see which projects I am working on. I love GitHub; it's a **powerful tool to share my projects**!
 
-**Fun facts abouts me :**
-  - I love video games
-  - I like football
+Fun facts about me:
 
+- I love video games 🎮
 
-
-<!--
-**henripift/henripift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I like football ⚽
